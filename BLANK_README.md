@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="400" height="400">
 
   <p align="center">
-    <h1>This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability.</h1>
+    This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability.
     <br />
     <br />
   </p>
