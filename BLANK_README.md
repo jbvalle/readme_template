@@ -47,7 +47,8 @@ This project aims to demonstrate search and sorting algorithms as well as time c
 * Performance testing applying time complexity assessments to estimate performance levels<br />
 * Evaluating performance tests based on time measurements alone.<br />
 * Time Complexity assessment based on run time of insertionsort implementations using arrays and linked lists.<br />
-
+2. Part 2:<br />
+... <br />
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
