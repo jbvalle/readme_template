@@ -41,8 +41,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability.
+This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability. It is implemented in two parts. <br />
+1. Part 1:<br />
+* Implementation of merge-, quick-, bubble-, and insertionsort algorithms with randomized uniquly generated numbers as inputs<br />
+* Performance testing applying time complexity assessments to estimate performance levels<br />
+* Evaluating performance tests based on time measurements alone.<br />
+* Time Complexity assessment based on run time of insertionsort implementations using arrays and linked lists.<br />
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
