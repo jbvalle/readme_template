@@ -17,7 +17,7 @@
 <h3 align="center">Search and Sort</h3>
 
   <p align="center">
-    project_description
+    This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
