@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="250" height="250">
+    <img src="images/logo.png" alt="Logo" width="400" height="400">
 
 <h3 align="center">Search and Sort</h3>
 
