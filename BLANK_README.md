@@ -20,7 +20,6 @@
     This project aims to demonstrate search and sorting algorithms and perform time complexity based comparisons to determine efficiency and usability.
     <br />
     <br />
-    <br />
   </p>
 </div>
 
